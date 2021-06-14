@@ -38,6 +38,7 @@ body {
 
 .offer-left {
   padding: 40px;
+  width: 50%;
   height: 560px;
   background: linear-gradient(180deg, #428a60 0%, #35734f 100%);
   box-shadow: 0px 24px 80px rgba(0, 0, 0, 0.1);
@@ -90,6 +91,7 @@ body {
   bottom: 20px;
 }
 .offer-right {
+  width: 50%;
   height: 560px;
   background-color: #fff;
   border-radius: 0 1px 1px 0;
